@@ -24,6 +24,10 @@
     background-repeat: no-repeat;
 }
 #descripcion{
-    font-size: xx-large;
-    color:orange;
+    font-family: Arial, Helvetica, sans-serif
+    color:rgb(64, 0, 255);
 }
+ #subtitulo{
+    font-size: xx-large;
+    color:rgb(255, 30, 0);
+ }
